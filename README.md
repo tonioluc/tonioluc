@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠 Compétences
+### Compétences
 
 **Langages :**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -56,7 +56,7 @@
 
 - Hackathons :  
   - HIU 2025  
-  - Hackathon IFM & Passion 4 Humanity  
+  - Hackathon organisé par l'IFM & Passion 4 Humanity Novembre 2025
 
 - Formation Arduino : Orange Digital Center  
 
