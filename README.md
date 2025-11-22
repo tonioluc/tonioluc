@@ -73,11 +73,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://mg.linkedin.com/in/luc-antonio-randriamihaja-2b5895350)
 
----
+<!-- ---
 
 ### Citation inspirante
 
-> "Le succès n’est pas la clé du bonheur. Le bonheur est la clé du succès. Si vous aimez ce que vous faites, vous réussirez." – Albert Schweitzer
+> "Le succès n’est pas la clé du bonheur. Le bonheur est la clé du succès. Si vous aimez ce que vous faites, vous réussirez." – Albert Schweitzer -->
 
 ---
 
