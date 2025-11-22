@@ -2,7 +2,7 @@
 <h3 align="center">Développeur Back-end | Étudiant 3ème année Informatique | Passionné par la technologie</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="coding gif">
+    <img src="./assets/coding.gif" width="200" alt="coding animation">
 </p>
 
 ---
