@@ -80,7 +80,7 @@ Application complète de gestion de bibliothèque avec Spring Boot et PostgreSQL
 
 ## 📞 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://mg.linkedin.com/in/luc-antonio-randriamihaja-2b5895350)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://mg.linkedin.com/in/luc-antonio-randriamihaja)
 
 ---
 
