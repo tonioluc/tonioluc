@@ -6,11 +6,20 @@
 
 ## About
 
-<img src="./assets/dev.gif" style="float:right; margin:0 0 16px 24px; max-width:40%; height:auto;" />
-
-- Fullstack developer focused on building reliable web applications and APIs
-- Interested in system architecture, backend services and frontend user experiences
-- Open to technical collaborations and freelance projects
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <ul>
+        <li>Fullstack developer focused on building reliable web applications and APIs</li>
+        <li>Interested in system architecture, backend services and frontend user experiences</li>
+        <li>Open to technical collaborations and freelance projects</li>
+      </ul>
+    </td>
+    <td valign="top" width="35%" align="right">
+      <img src="./assets/dev.gif" alt="dev" style="max-width:260px; width:100%; height:auto; border-radius:8px;" />
+    </td>
+  </tr>
+</table>
 
 ## Tech & Tools
 
