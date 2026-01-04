@@ -56,12 +56,4 @@
 
 - LinkedIn: [Luc Antonio Randriamihaja](https://mg.linkedin.com/in/luc-antonio-randriamihaja)
 
-## GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonioluc&show_icons=true" alt="github-stats"/>
-</div>
-
----
-
 Thanks for visiting — feel free to reach out for collaborations.
