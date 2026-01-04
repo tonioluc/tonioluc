@@ -1,10 +1,12 @@
-<h1 align="center">Hello <img src="./assets/dev.gif" width="36" alt="hi"> I'm Luc Antonio Randriamihaja</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px" alt="hi"> I'm Luc Antonio Randriamihaja</h1>
 
 <div align="center">
   <img src="./assets/banner.png" alt="banner" />
 </div>
 
 ## About
+
+<img src="./assets/dev.gif" height="290px" align="right" />
 
 - Fullstack developer focused on building reliable web applications and APIs
 - Interested in system architecture, backend services and frontend user experiences
