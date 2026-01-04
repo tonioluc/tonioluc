@@ -17,10 +17,11 @@
 ### Backend
 <p>
 <img src="https://img.shields.io/badge/PHP%20/%20Laravel-777BB4?style=for-the-badge&logo=laravel&logoColor=white" height="25px"/>
-<img src="https://img.shields.io/badge/Java%20/%20Spring%20Boot-007396?style=for-the-badge&logo=java&logoColor=white" height="25px"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25px"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="25px"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="25px"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="25px"/>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img src="https://img.shields.io/badge/API%20REST-0A0A0A?style=for-the-badge" height="25px"/>
+<img src="https://img.shields.io/badge/API%20REST-0A0A0A?style=for-the-badge&logo=web&logoColor=white" height="25px"/>
 </p>
 
 ### Frontend
@@ -28,7 +29,7 @@
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" height="25px"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25px"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25px"/>
-<img src="https://img.shields.io/badge/AJAX-005C99?style=for-the-badge" height="25px"/>
+<img src="https://img.shields.io/badge/AJAX-005C99?style=for-the-badge&logo=ajax&logoColor=white" height="25px"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
@@ -50,7 +51,6 @@
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25px"/>
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" height="25px"/>
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="25px"/>
-<img src="https://img.shields.io/badge/FTP-0A0A0A?style=for-the-badge" height="25px"/>
 <img src="https://img.shields.io/badge/FileZilla-B30000?style=for-the-badge&logo=filezilla&logoColor=white" height="25px"/>
 </p>
 
