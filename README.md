@@ -6,7 +6,7 @@
 
 ## About
 
-<img src="./assets/dev.gif" height="290px" align="right" />
+<img src="./assets/dev.gif" style="float:right; margin:0 0 16px 24px; max-width:40%; height:auto;" />
 
 - Fullstack developer focused on building reliable web applications and APIs
 - Interested in system architecture, backend services and frontend user experiences
